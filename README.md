@@ -6,3 +6,10 @@
 
 ## Materials, Meshes and Animations of the Player
 ### Chico Aplastante - Mixamo
+
+## Controls
+### Movement - thumbstick L and R (camera)
+### Shoot - Trigger R
+### Jump - Trigger L
+### Interact - A
+### Reload - R
